@@ -1,4 +1,4 @@
-# Artifical Intelligence concepts
+# Artifical Intelligence Concepts
 
 
 
