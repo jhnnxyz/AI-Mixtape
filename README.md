@@ -1,2 +1,5 @@
-# stats-learning
-Statistical Learning from Scratch 
+# Artifical Intelligence concepts
+
+
+
+- To do
