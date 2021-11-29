@@ -7,7 +7,7 @@ Questions for the philosophers, and maybe a blog post one day.
 
 There are many areas in AI, some of the subfields inlcude machine learning and deep learning. And within those fields there are concepts such as probabalistic and statistical methods. Luckily many of these areas overlap. 
 
-<img src="/media/ai-ml-dl.png" alt="AI map" style="height: 100px; width:100px;"/>
+<img src="/media/ai-ml-dl.png" alt="AI map" style="height: 300px; width:200px;"/>
 
 This repo will try to distill the many AI concepts in jupyter notebooks from first principles, including the mathematics required to understand the algorithms. 
 
