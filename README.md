@@ -1,16 +1,15 @@
-# Artifical Intelligence Concepts
+# A.I. The Musical!
 
-Artificial intelligence (AI) refers to "intelligence" demonstrated by machines rather than natural "intelligence" exhibited by animals such as humans.
+Discover the untold true story of A.I. at Broadway's biggest blockbuster—A.I. The Musical!. 
 
-I highlighted intelligence in quotations because it is difficult to define intelligence rigously, and there is a lot of debate as to what intelligence is. 
-Questions for the philosophers, and maybe a blog post one day. 
+Coming soon to a virtual broadway near you. 
 
-There are many areas in AI, some of the subfields inlcude machine learning and deep learning. And within those fields there are concepts such as probabalistic and statistical methods. Luckily many of these areas overlap. 
+## Intro
 
-<p align="center">
-  <img src="/media/ai-ml-dl.png" alt="AI map" style="height: 400px; width:500px;"/>
-</p>
-This repo will try to distill the many AI concepts in jupyter notebooks from first principles, including the mathematics required to understand the algorithms. 
+This repo will try to distill the many AI concepts in jupyter notebooks from first principles, including the mathematics* required to understand the algorithms. 
+
+
+*Tears not included
 
 
 
