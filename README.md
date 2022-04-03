@@ -8,7 +8,7 @@ Coming soon to a virtual broadway near you.
 
 This repo will try to distill the many AI concepts in jupyter notebooks from first principles, including the mathematics* required to understand the algorithms. 
 
-# Mathematics Menu
+## Mathematics Menu
 - Probability and Statistics
 - Linear Algebra
 - Calculus
