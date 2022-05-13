@@ -1,8 +1,4 @@
-# A.I. The Musical!
-
-Discover the untold true story of A.I. at Broadway's biggest blockbuster—A.I. The Musical!. 
-
-Coming soon to a virtual broadway near you. 
+# My super awesome A.I. Mixtape
 
 ## Intro
 
